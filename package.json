@@ -95,6 +95,7 @@
     "./lib/server-app.js": "./lib/browser-express.js",
     "connect": false,
     "nodemailer": false,
+    "depd": "loopback-datasource-juggler/lib/browser.depd.js",
     "bcrypt": false
   },
   "license": {
